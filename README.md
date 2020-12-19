@@ -1,6 +1,7 @@
 # MultiLyGAN
-a new multi-classification machine learning pipeline MultiLyGAN to identity seven types of lysine modified sites 
-![image](https://github.com/Lab-Xu/MultiLyGAN/blob/main/Figures/classification.png)
+<img src="https://github.com/Lab-Xu/MultiLyGAN/blob/main/Figures/classification.png" width="400"/><br/>
+A new multi-classification machine learning pipeline MultiLyGAN to identity seven types of lysine modified sites 
+
 ## Requirements
 * Python>=3.7
 * Matlab2016a
